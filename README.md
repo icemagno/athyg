@@ -2,6 +2,8 @@
 
 The implementation of https://github.com/astronexus/HYG-Database/tree/master/athyg into a PostGIS database and Cesium
 
+Currently 2,552,166 stars
+
 ## Augmented Tycho - HYG (AT-HYG)
 ( From https://github.com/astronexus/HYG-Database/blob/master/athyg/README.md )
 
